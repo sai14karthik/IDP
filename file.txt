@@ -1,0 +1,7 @@
+alex net
+Inceptionv3
+Resnet5
+Vgg16
+vgg19 
+efficientnet b0- b7
+ 
