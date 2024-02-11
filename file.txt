@@ -1,7 +1,9 @@
-alex net
-Inceptionv3
-Resnet5
-Vgg16
-vgg19 
-efficientnet b0- b7
- 
+Alex Net
+VGG16 
+VGG19
+ResNet50
+InceptionV3
+Xception
+MobileNetV2
+eficientNet B0
+eficientNet B7
