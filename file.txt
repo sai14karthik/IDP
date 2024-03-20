@@ -7,3 +7,5 @@ Xception
 MobileNetV2
 eficientNet B0
 eficientNet B7
+Long Short-Term Memory (LSTM)
+Gated Recurrent Unit (GRU):
